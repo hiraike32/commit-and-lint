@@ -1,0 +1,11 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["tslint:recommended", "tslint-react"],
+  "rules": {
+    "interface-name": false,
+    "object-literal-sort-keys": false,
+    "no-shadowed-variable": false,
+    "jsx-no-lambda": false,
+    "member-access": false
+  }
+}
